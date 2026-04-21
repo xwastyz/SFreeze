@@ -20,3 +20,5 @@ On a WM [Window Manager] Add a keybind to your main config file in niri as examp
 
 Change the keybind to anything you want!
 Thats it have fun.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea4caa69-5f87-4ff0-969c-6e665b088677" />
+<img width="1318" height="786" alt="image" src="https://github.com/user-attachments/assets/6561e681-561f-4618-89ef-e130692e6a90" />

@@ -11,6 +11,7 @@ Keybinds also work but youll have to manually set them in your Window managers c
 What the tool does is just a very simple PID lookup of sober If it finds them all it will just Use "SIGSTOP" To freeze the instance and "SIGCONT" To continue the instance which is also very simple to achive in the terminal but im sure you wouldnt have fun typing "SIGSTOP" And "SIGCONT" Everytime in the terminal to due exactly what this tool does but simpler.
 
 How to implement the keybind [WARNING: You need "netcat" installed on your system for this to work]: 
+
 On a DE [Desktop Enviroment, Cinnamon, KDE Plasma etc] Go to your settings app and search for keyboard then go to keybinds/shortcuts and add a custom command, as the name use anything and the command is: sh -c "echo freeze | nc -u -w1 127.0.0.1 5555"
 Change the keybind to anything you want!
 

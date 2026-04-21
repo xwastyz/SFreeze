@@ -16,7 +16,7 @@ On a DE [Desktop Enviroment, Cinnamon, KDE Plasma etc] Go to your settings app a
 Change the keybind to anything you want!
 
 On a WM [Window Manager] Add a keybind to your main config file in niri as example paste this at the end of the config.kdl file: binds {
-    F1 { spawn "sh" "-c" "echo freeze | nc -u -w0 127.0.0.1 5555"; } 
+    F1 { spawn "sh" "-c" "echo freeze | nc -u -w1 127.0.0.1 5555"; } 
 
 }
 
